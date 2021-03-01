@@ -12,6 +12,10 @@ body {
 
 }
 
+#pricing {
+    background-color: #ef8172;
+}
+
 h1 {
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 3.5rem;
